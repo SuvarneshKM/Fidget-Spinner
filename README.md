@@ -1,3 +1,3 @@
-# Fidget-Spinner
-Fidget Spinner using python
+# Fidget-Spinner working
+
 ![](working.gif)
